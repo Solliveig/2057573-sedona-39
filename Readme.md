@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Анастасия Авдохина](https://up.htmlacademy.ru/htmlcss/39/user/2057573).
-* Наставник: [Дмитрий Осадченко] (https://htmlacademy.ru/profile/dimaos).
+* Наставник: [Дмитрий Осадченко](https://htmlacademy.ru/profile/dimaos).
 
 ---
 
